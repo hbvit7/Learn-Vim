@@ -1,0 +1,318 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-12-25 02:24+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Title ==
+#: README.adoc:1
+#, no-wrap
+msgid "Learn Vim (the Smart Way)"
+msgstr ""
+
+#. type: Title ===
+#: README.adoc:3
+#, no-wrap
+msgid "Whatâs This?"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:6
+msgid "_Learn Vim (the Smart Way)_ is a guide to learn the good parts of Vim."
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:13
+msgid ""
+"There are many places to learn Vim: the `vimtutor` is a great place to start "
+"and the `help` manual has all the references you will ever need.  However, "
+"the average user needs something more than `vimtutor` and less than the "
+"`help` manual. This guide attempts to bridge that gap by highlighting only "
+"the key features to learn the most useful parts of Vim in the least time "
+"possible."
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:19
+msgid ""
+"This guide is written for both beginner and advanced Vimmers. It starts out "
+"with broad and simple concepts and ends with specific and advanced "
+"concepts. If youâre an advanced user already, I would encourage you to "
+"read this guide from start to finish anyway, because you will learn "
+"something new!"
+msgstr ""
+
+#. type: Title ===
+#: README.adoc:20
+#, no-wrap
+msgid "I Want More Vim Tips!"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:24
+msgid "Follow https://twitter.com/learnvim[@learnvim] for updates, Vim tips, etc."
+msgstr ""
+
+#. type: Title ===
+#: README.adoc:25
+#, no-wrap
+msgid "Support This Project"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:28
+msgid "This guide is and will always be free."
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:31
+msgid ""
+"If you want to financially support this project, you can "
+"https://leanpub.com/learnvim[purchase this guide on Leanpub]."
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:33
+msgid "image:images/learn-vim-cover.png[link=\"https://leanpub.com/learnvim\",width=100]"
+msgstr ""
+
+#. type: Title ===
+#: README.adoc:34
+#, no-wrap
+msgid "Table Of Contents"
+msgstr ""
+
+#. type: Title ====
+#: README.adoc:36
+#, no-wrap
+msgid "Prologue"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:39
+msgid "link:./ch00_read_this_first.md[Ch 0 - Read This First]"
+msgstr ""
+
+#. type: Title ====
+#: README.adoc:40
+#, no-wrap
+msgid "Part 1: Learn Vim the Smart Way"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:43
+msgid "link:./ch01_starting_vim.md[Ch 1 - Starting Vim]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:45
+msgid ""
+"link:./ch02_buffers_windows_tabs.md[Ch 2 - Buffers&#44; Windows&#44; and "
+"Tabs]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:46
+msgid "link:./ch03_searching_files.md[Ch 3 - Opening and Searching Files]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:47
+msgid "link:./ch04_vim_grammar.md[Ch 4 - Vim Grammar]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:48
+msgid "link:./ch05_moving_in_file.md[Ch 5 - Moving in a File]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:49
+msgid "link:./ch06_insert_mode.md[Ch 6 - Insert Mode]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:50
+msgid "link:./ch07_the_dot_command.md[Ch 7 - The Dot command]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:51
+msgid "link:./ch08_registers.md[Ch 8 - Registers]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:52
+msgid "link:./ch09_macros.md[Ch 9 - Macros]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:53
+msgid "link:./ch10_undo.md[Ch 10 - Undo]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:54
+msgid "link:./ch11_visual_mode.md[Ch 11 - Visual Mode]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:55
+msgid "link:./ch12_search_and_substitute.md[Ch 12 - Search and Substitute]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:56
+msgid "link:./ch13_the_global_command.md[Ch 13 - The Global Command]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:57
+msgid "link:./ch14_external_commands.md[Ch 14 - External Commands]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:58
+msgid "link:./ch15_command-line_mode.md[Ch 15 - Command-line Mode]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:59
+msgid "link:./ch16_tags.md[Ch 16 - Tags]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:60
+msgid "link:./ch17_fold.md[Ch 17 - Fold]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:61
+msgid "link:./ch18_git.md[Ch 18 - Git]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:62
+msgid "link:./ch19_compile.md[Ch 19 - Compile]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:64
+msgid ""
+"link:./ch20_views_sessions_viminfo.md[Ch 20 - Views&#44; Sessions&#44; and "
+"Viminfo]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:66
+msgid "link:./ch21_multiple_file_operations.md[Ch 21 - Multiple File Operations]"
+msgstr ""
+
+#. type: Title ====
+#: README.adoc:67
+#, no-wrap
+msgid "Part 2: Customize Vim the Smart Way"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:70
+msgid "link:./ch22_vimrc.md[Ch 22 - Vimrc]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:71
+msgid "link:./ch23_vim_packages.md[Ch 23 - Vim Packages]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:72
+msgid "link:./ch24_vim_runtime.md[Ch 24 - Vim Runtime]"
+msgstr ""
+
+#. type: Title ====
+#: README.adoc:73
+#, no-wrap
+msgid "Part 3: Learn Vimscript the Smart Way"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:77
+msgid ""
+"link:./ch25_vimscript_basic_data_types.md[Ch 25 - Vimscript Basic Data "
+"Types]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:79
+msgid ""
+"link:./ch26_vimscript_conditionals_and_loops.md[Ch 26 - Vimscript "
+"Conditionals And Loops]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:81
+msgid "link:./ch27_vimscript_variable_scopes.md[Ch 27 - Vimscript Variable Scopes]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:82
+msgid "link:./ch28_vimscript_functions.md[Ch 28 - Vimscript Functions]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:84
+msgid ""
+"link:./ch29_plugin_example_writing-a-titlecase-plugin.md[Ch 29 - Plugin "
+"Example: Writing a Titlecase Plugin]"
+msgstr ""
+
+#. type: Title ===
+#: README.adoc:85
+#, no-wrap
+msgid "Translations"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:88
+msgid "https://github.com/wsdjeg/Learn-Vim_zh_cn[Learn-Vim ä¸­æç¿»è¯](`zh-CN`)"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:89
+msgid "https://github.com/victorhck/learn-Vim-es[Learn-Vim Spanish](`es`)"
+msgstr ""
+
+#. type: Title ===
+#: README.adoc:90
+#, no-wrap
+msgid "License & Copyright"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:93
+msgid "The materials here are all Â© 2020-2021 Igor Irianto."
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:95
+msgid "image:https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png[link=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"]"
+msgstr ""
+
+#. type: Plain text
+#: README.adoc:97
+msgid ""
+"This work is licensed under a Creative Commons "
+"Attribution-NonCommercial-ShareAlike 4.0 International."
+msgstr ""
